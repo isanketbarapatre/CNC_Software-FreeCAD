@@ -1,0 +1,71 @@
+{
+    "name": "unfold_sketch_outline.dxf",
+    "Date": "2023-11-04 16:10:01",
+    "Unit": "4",
+    "layers": {
+        "0": {
+            "handle": "A09",
+            "owner": "A08",
+            "name": "0",
+            "flags": "0",
+            "color": "7",
+            "true_color": "None",
+            "line_type": "CONTINUOUS",
+            "plot": "1",
+            "line_weight": "-3",
+            "plotstyle_handle": "10061",
+            "material_handle": "10069",
+            "rgb": null,
+            "description": "",
+            "transparency": 0.0
+        },
+        "none": {
+            "handle": "A0A",
+            "owner": "A08",
+            "name": "none",
+            "flags": "0",
+            "color": "7",
+            "true_color": "None",
+            "line_type": "CONTINUOUS",
+            "plot": "1",
+            "line_weight": "-3",
+            "plotstyle_handle": "10061",
+            "material_handle": "10069",
+            "rgb": null,
+            "description": "",
+            "transparency": 0.0
+        },
+        "Unfold_Sketch_Outline": {
+            "handle": "A0B",
+            "owner": "A08",
+            "name": "Unfold_Sketch_Outline",
+            "flags": "0",
+            "color": "7",
+            "true_color": "None",
+            "line_type": "CONTINUOUS",
+            "plot": "1",
+            "line_weight": "-3",
+            "plotstyle_handle": "10061",
+            "material_handle": "10069",
+            "rgb": null,
+            "description": "",
+            "transparency": 0.0
+        },
+        "Defpoints": {
+            "handle": "1006B",
+            "owner": "A08",
+            "name": "Defpoints",
+            "flags": "0",
+            "color": "7",
+            "true_color": "None",
+            "line_type": "Continuous",
+            "plot": "0",
+            "line_weight": "-3",
+            "plotstyle_handle": "10061",
+            "material_handle": "10069",
+            "rgb": null,
+            "description": "",
+            "transparency": 0.0
+        }
+    }
+}
